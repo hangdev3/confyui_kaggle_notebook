@@ -1,4 +1,4 @@
-# ComfyUI Kaggle — Auto GPU V4.4
+# ComfyUI Kaggle — Auto GPU V4.4.0
 
 Notebook para instalar, configurar e manter o [ComfyUI](https://github.com/Comfy-Org/ComfyUI) em uma sessão Kaggle com GPU NVIDIA. O fluxo foi pensado para usar duas T4 quando disponíveis e manter um fallback compatível com P100, incluindo gerenciamento de modelos, autenticação no Hugging Face e acesso remoto temporário.
 
